@@ -1,1 +1,1 @@
-# theoretical-mechanics
+# theoretical-mechanics-hw3
